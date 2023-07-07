@@ -15,9 +15,9 @@ import { RegisterComponent } from './pages/register/register.component';
         RegisterComponent
     ],
     imports: [
-            CommonModule,
-            MaterialModule,
-            AuthModule,
+        CommonModule,
+        MaterialModule,
+        AuthModule,
     ]
 })
 
